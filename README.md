@@ -2,7 +2,7 @@
   <h2> [해리포터 기숙사 배정 MBTI 🎮] </h2>
 </div>
 <p align="center">
-  <img src="https://github.com/tubus1130/ToyProject_MBTI/assets/50819376/ff022dc3-0d37-42bc-8329-e78fe1796996" width="500px">
+  <img src="https://github.com/tubus1130/ToyProject_HarryPotterMBTI/assets/50819376/374ab3f9-81d8-4d12-b845-09787524099a" width="500px">
 </p>
 
 # 📌 개요
