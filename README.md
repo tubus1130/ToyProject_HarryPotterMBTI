@@ -1,3 +1,37 @@
+<div align="center">
+  <h2> [해리포터 기숙사 배정 MBTI 🎮] </h2>
+</div>
+<p align="center">
+  <img src="https://github.com/tubus1130/ToyProject_MBTI/assets/50819376/ff022dc3-0d37-42bc-8329-e78fe1796996" width="500px">
+</p>
+
+# 📌 개요
+- 프로젝트 이름 : 해리포터 기숙사 배정 MBTI
+- 개발기간 : 2021.04 ~ 2021.05
+- 프로젝트 규모 : 개인 프로젝트
+- 개발 언어 : 
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black">
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white">
+
+- 개발 도구 :
+  <img src="https://img.shields.io/badge/VS Code-007ACC?style=flat&logo=Visual Studio Code&logoColor=white">
+
+# 📌 기능시연
+### 1. 초기화면
+![image](https://github.com/tubus1130/ToyProject_HarryPotterMBTI/assets/50819376/a8cbfa02-0660-4f6f-8b5b-d94b161e223c)
+### 2. 설문조사
+![image](https://github.com/tubus1130/ToyProject_HarryPotterMBTI/assets/50819376/e39090ea-ed1a-4cc0-aa19-9ab85469ed07)
+### 3. 기숙사 배정(결과)
+![image](https://github.com/tubus1130/ToyProject_HarryPotterMBTI/assets/50819376/4b8daa90-6f15-4020-9002-66658fa4d694)
+
+## 📌 기타
+### 💡 NETLIFY 배포 링크
+https://tubus1130-harrypotter-mbti.netlify.app/
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -28,43 +62,3 @@ The build is minified and the filenames include the hashes.\
 Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
